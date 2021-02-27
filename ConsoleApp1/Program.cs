@@ -10,11 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!!!!!");
-
-            Console.WriteLine("Here is my branch");
-
-            Console.ReadKey();
+            int x = 50;
         }
+
     }
 }
+
